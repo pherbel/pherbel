@@ -1,16 +1,15 @@
-### Hi there 👋
+###  👊  Hello there, I'm Peter Herbel
+  
+☁️ Cloud Architect and founder of [GetTech](https://github.com/GetTech-io). Huge fan of :octocat: GitHub and Open Source Software.  
+I'm father of two 👶 which is my best journey in my life. 🏡 We live in Budapest, Hungary with my family.
 
-<!--
-**pherbel/pherbel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📓 I'm learning (as always) Azure, cloud technologies, distributed systems, .NET and C# tricks, architecture patterns, DevOps principles and how we can be an efficient Agile organization with modern mindset.
 
-Here are some ideas to get you started:
+💬 Ask me about: [.NET](https://github.com/dotnet), [ASP.NET](https://github.com/dotnet/aspnetcore), [Orleans](https://github.com/dotnet/orleans), [Azure](https://azure.microsoft.com/)  
+😄 Fun fact: I like to play with my children, travel, and cook. ⚽ I'm Manchester United fan.
+### 📫 Contact:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐤[@HerbaPeter](https://twitter.com/HerbaPeter)
+- 📝[just leave message in this repo](https://github.com/pherbel/pherbel/issues)
+- 👔 [PeterHerbel](https://www.linkedin.com/in/peterherbel/)
+- 📰 [@herbel.peter](https://medium.com/@herbel.peter)
